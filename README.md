@@ -4,7 +4,7 @@ Question 1 word documents
 [testcase.docx](https://github.com/user-attachments/files/16020075/testcase.docx)
 
 Question 2
-For question 2, I used chrome driver 126.0.6478.126. This is because my google chrome is the latest 126.0.6478.127, and I can't find any chrome driver that match my chrome version. so I found a link that provide same chrome version and driver. 
+For question 2, I used chrome driver 126.0.6478.126. This is because my google chrome is the latest 126.0.6478.127, and I can't find any chrome driver that match my chrome version. so I found a link that provide same chrome version and driver. In this case, I'm using chrome win64 and chromedriver win64
 
 The following is the link to download the specific chrome version and the chrome driver that is runnable when I am doing the assessment 
 https://googlechromelabs.github.io/chrome-for-testing/#stable
