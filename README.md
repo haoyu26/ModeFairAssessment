@@ -20,4 +20,6 @@ screenshot for question 2 output
 ![image](https://github.com/haoyu26/ModeFairAssessment/assets/146761735/0a35fe7b-5a35-45bd-9e87-84b6350d166b)
 
 Question 3
-For question 3, I can't put the jmx file here, I just upload the file to the repository and the name of the file is Test Plan.jmx
+For question 3, I'm using apache-jmeter-5.6.3 version. 
+
+For the test plan, I can't put the jmx file here, I just upload the file to the repository and the name of the file is Test Plan.jmx
